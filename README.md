@@ -1,2 +1,2 @@
-# neoL1xuxRepo
+# neoL1nuxRepo
 Repository of "neoL1nux" distribution
